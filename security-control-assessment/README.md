@@ -53,5 +53,3 @@ Cybersecurity | GRC | Audit & Risk
 
 This material is provided for educational and professional portfolio purposes.  
 Feel free to reference with attribution. Commercial use is not permitted without prior written approval.
-
- Add security-control-assessment folder with README
